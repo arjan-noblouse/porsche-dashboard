@@ -644,7 +644,7 @@ const PorscheExpenseDashboard = () => {
             <div className="flex flex-col items-center md:flex-row md:justify-between">
               <div className="flex flex-col md:flex-row items-center mb-4 md:mb-0">
               <img
-		src="Porsche-Logo.png"
+		src="/Porsche-Logo.png"
 		alt="Porsche logo alt"
 		className="h-16 mb-3 md:mb-0 md:mr-6"/>
                 <div className="text-center md:text-left">
