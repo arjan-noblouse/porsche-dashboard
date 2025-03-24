@@ -643,10 +643,10 @@ const PorscheExpenseDashboard = () => {
           <div className="bg-white rounded-md p-6 mb-6 border border-gray-200 shadow-sm">
             <div className="flex flex-col items-center md:flex-row md:justify-between">
               <div className="flex flex-col md:flex-row items-center mb-4 md:mb-0">
-               <img
-		src="https://1000logos.net/wp-content/uploads/2018/02/Porsche-Logo.png"
+              <img
+		src="/Porsche-Logo.png"
 		alt="Porsche logo alt"
-		classname="h-16 mb-3 md:mb-0 md:mr-6"
+		className="h-16 mb-3 md:mb-0 md:mr-6"/>
                 <div className="text-center md:text-left">
                   <h1 className="text-3xl font-bold tracking-tight text-black">928</h1>
                   <div className="w-12 h-1 bg-red-600 my-2 mx-auto md:mx-0"></div>
