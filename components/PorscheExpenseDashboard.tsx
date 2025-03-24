@@ -990,7 +990,7 @@ const PorscheExpenseDashboard = () => {
                         </svg>
                         <h3 className="mt-2 text-sm font-medium text-gray-900">No invoices found</h3>
                         <p className="mt-1 text-sm text-gray-500">
-                          Try adjusting your search or filter to find what you're looking for.
+                          Try adjusting your search or filter to find what you are looking for.
                         </p>
                         <div className="mt-3">
                           <button 
