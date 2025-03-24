@@ -643,22 +643,10 @@ const PorscheExpenseDashboard = () => {
           <div className="bg-white rounded-md p-6 mb-6 border border-gray-200 shadow-sm">
             <div className="flex flex-col items-center md:flex-row md:justify-between">
               <div className="flex flex-col md:flex-row items-center mb-4 md:mb-0">
-                <svg 
-  width="120" 
-  height="80" 
-  viewBox="0 0 242 300" 
-  className="h-16 mb-3 md:mb-0 md:mr-6"
->
-  <path d="M121 0L0 60v180l121 60 121-60V60L121 0zm91.5 225.4L121 276.5l-91.5-51.1V74.6L121 23.5l91.5 51.1v151.8z" fill="#000"/>
-  <path d="M121 42l-81 45v126l81 45 81-45V87l-81-45zm68 159.3l-68 38-68-38V98.7l68-38 68 38v102.6z" fill="#000"/>
-  <path d="M121 62l-68 38v76l68 38 68-38v-76l-68-38zm50 96.2l-50 28-50-28v-40.5l50-28 50 28v40.5z" fill="#D5001C"/>
-  <path d="M121 70.5l-5.5 24h11l-5.5-24zm0 134.9l5.5-24h-11l5.5 24z" fill="#000"/>
-  <path d="M185.4 103l-24-5.5 19.5 15-14.8 20.4 19.3-15.1V103zm-129 69.9l24 5.5-19.5-15 14.8-20.4-19.3 15.1v14.8z" fill="#000"/>
-  <path d="M190.5 142.5l-24 5.5 15 19.5-20.4 14.8 15.1-19.3H191v-20.5zm-139-10l24-5.5-15-19.5 20.4-14.8-15.1 19.3H51v20.5z" fill="#000"/>
-  <path d="M142.5 198l5.5-24-19.5 15-20.4-14.8 15.1 19.3V209l19.3-11zm-43-121l-5.5 24 19.5-15 20.4 14.8-15.1-19.3V66l-19.3 11z" fill="#000"/>
-  <path d="M178 176.5l-5.5-24-15 19.5-14.8-20.4 19.3 15.1h14.9l1.1 9.8zm-114-78l5.5 24 15-19.5 14.8 20.4-19.3-15.1H64l-0 9.2z" fill="#000"/>
-  <path fill="#D5001C" d="M125 137.5h-8v25h8v-25zM125 112.5h-8v15h8v-15z"/>
-</svg>
+               <img
+		src="https://1000logos.net/wp-content/uploads/2018/02/Porsche-Logo.png"
+		alt="Porsche logo alt"
+		classname="h-16 mb-3 md:mb-0 md:mr-6"
                 <div className="text-center md:text-left">
                   <h1 className="text-3xl font-bold tracking-tight text-black">928</h1>
                   <div className="w-12 h-1 bg-red-600 my-2 mx-auto md:mx-0"></div>
